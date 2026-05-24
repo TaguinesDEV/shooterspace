@@ -1,0 +1,24 @@
+{
+  "players": {
+    "marcelot": {
+      "best_score": 348,
+      "games_played": 1,
+      "last_score": 348
+    },
+    "tags": {
+      "best_score": 0,
+      "games_played": 0,
+      "last_score": 0
+    },
+    "mar": {
+      "best_score": 208,
+      "games_played": 3,
+      "last_score": 208
+    },
+    "ako": {
+      "best_score": 44,
+      "games_played": 2,
+      "last_score": 0
+    }
+  }
+}
